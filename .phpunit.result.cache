@@ -1,0 +1,1 @@
+C:37:"PHPUnit\Runner\DefaultTestResultCache":285:{a:2:{s:7:"defects";a:1:{s:28:"UserTest::get_first_username";i:4;}s:5:"times";a:5:{s:22:"SampleTest::testSample";d:0.002;s:27:"SampleTest::ini_sample_test";d:0;s:28:"UserTest::get_first_username";d:0;s:23:"UserTest::get_last_name";d:0;s:37:"UserTest::firstname_and_lastname_trim";d:0;}}}
